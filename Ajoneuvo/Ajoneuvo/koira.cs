@@ -8,6 +8,7 @@ namespace Ajoneuvo
 {
     class koira
     {
+        //Esimerkki koira.
         public string nimi { get; set; }
         public string Rotu { get; set;}
         public int Ikä { get; set; }

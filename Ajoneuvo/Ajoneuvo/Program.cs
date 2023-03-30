@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //Esimerkki Koira
         koira koiraOlio = new koira("Rekku", "Saksanpaimenkoira", 4, "Harmaa", 32.0f);
 
         koiraOlio.nimi = "Rekku";

@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Ajoneuvo
 {
-    internal class Harjoitus1Ajoneuvo
+    class Harjoitus1Ajoneuvo
     {
+        public string Nimi { get; set; }
+        public int Nopeus { get; set; }
+        public int Renkaat { get; set; }
+
+        public void TulostaData()
+        {
+            string Ajoneuvotiedot = "Nimi: " + Nimi + ". Nopeus: " + Nopeus.ToString() + ". Renkaat: " + Renkaat.ToString();
+            return Ajoneuvotiedot;
+        }
+        public string ToStrings()
+        {
+            Console.WriteLine("VROOM");
+        }
     }
 }
