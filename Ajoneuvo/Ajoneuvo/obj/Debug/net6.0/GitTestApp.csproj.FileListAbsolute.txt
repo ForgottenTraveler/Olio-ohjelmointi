@@ -1,0 +1,5 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\GitTestApp.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\GitTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\GitTestApp.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\GitTestApp.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\GitTestApp.csproj.CoreCompileInputs.cache

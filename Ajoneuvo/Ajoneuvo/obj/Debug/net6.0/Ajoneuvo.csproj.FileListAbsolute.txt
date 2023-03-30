@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\bin\Debug\net6.0\Ajoneuvo.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\bin\Debug\net6.0\Ajoneuvo.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\bin\Debug\net6.0\Ajoneuvo.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\bin\Debug\net6.0\Ajoneuvo.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\bin\Debug\net6.0\Ajoneuvo.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\refint\Ajoneuvo.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\Ajoneuvo.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Ajoneuvo\Ajoneuvo\obj\Debug\net6.0\ref\Ajoneuvo.dll
