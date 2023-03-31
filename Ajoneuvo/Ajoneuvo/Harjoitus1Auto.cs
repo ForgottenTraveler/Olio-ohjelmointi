@@ -10,11 +10,7 @@ class Harjoitsu1Auto
         AutoOlio.Nimi = "Toyota";
         AutoOlio.Nopeus = 50;
         AutoOlio.Renkaat = 4;
-
-        AutoOlio.ToStrings();
-
-        Console.WriteLine(AutoOlio.TulostaData());
-
-        AutoOlio.ToStrings();
+        //Tulostaa ajoneuvon ominaisuudet konsoliin
+        AutoOlio.Datasummonner();
     }
 }

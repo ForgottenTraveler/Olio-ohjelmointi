@@ -12,14 +12,16 @@ namespace Ajoneuvo
         public int Nopeus { get; set; }
         public int Renkaat { get; set; }
 
-        public void TulostaData()
+        public string Stringingtobe()
         {
+            //Ajoneuvon ominaisuudet
             string Ajoneuvotiedot = "Nimi: " + Nimi + ". Nopeus: " + Nopeus.ToString() + ". Renkaat: " + Renkaat.ToString();
             return Ajoneuvotiedot;
         }
-        public string ToStrings()
+        public void Datasummonner()
         {
-            Console.WriteLine("VROOM");
+            //Tulostin ajoneuvon ominaisuudesta
+            Console.WriteLine(Stringingtobe()+"\nVrooms");
         }
     }
 }
