@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\bin\Debug\net6.0\harjoitus2opiskelija.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\bin\Debug\net6.0\harjoitus2opiskelija.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\bin\Debug\net6.0\harjoitus2opiskelija.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\bin\Debug\net6.0\harjoitus2opiskelija.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\bin\Debug\net6.0\harjoitus2opiskelija.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\refint\harjoitus2opiskelija.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\harjoitus2opiskelija.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus2opiskelija\harjoitus2opiskelija\obj\Debug\net6.0\ref\harjoitus2opiskelija.dll
