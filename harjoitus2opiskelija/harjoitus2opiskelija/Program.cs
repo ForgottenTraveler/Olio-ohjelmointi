@@ -8,15 +8,17 @@ internal class Program
 
         while (true)
         {
+            //Generaattori nimeen
             Random Genname = new Random();
             int Gennamae = Genname.Next(0, 20);
             string[] genename = { "Rekku", "Rakku", "Rokku", "Rekka", "Riukka", "Roani", "Rellas", "Rollas", "Renpa", "Ronpa", "Joule", "juol", "Joum", "Bana", "Bon", "Buyn", "Jan", "Jen", "june", "Roiski", "Ruilis" };
-
+            //ID generaattori
             Random Idgen = new Random();
             int Idgener = Idgen.Next(1, 50);
 
             Opiskelija OpiskeliaOlio = new Opiskelija(genename[Gennamae], Idgener.ToString(), 25);
-
+          
+            //Tulostaa opiskelijaolion
             OpiskeliaOlio.Datatulostin();
             OpiskeliaOlio.Opintopisteenmuokkaaja();
             

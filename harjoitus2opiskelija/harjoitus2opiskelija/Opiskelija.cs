@@ -14,7 +14,6 @@ namespace harjoitus2opiskelija
 
         public Opiskelija(string _nimi, string _OpiskelijaID, int _Opintopisteet)
         {
-            
             Nimi = _nimi;
             OpiskelijaID = _OpiskelijaID;
             Opintopisteet= _Opintopisteet;
@@ -22,11 +21,13 @@ namespace harjoitus2opiskelija
         
         public void Datatulostin()
         {
+            //Tulostaa opiskelijan ominaisuudet
             string opiskelijatiedot = "nimi: " + Nimi + ". OpiskelijaID: " + OpiskelijaID + ". Opintopisteet: " ;
             Console.Write(opiskelijatiedot);
         }
         public void Opintopisteenmuokkaaja() 
         {
+            //Opintopistemuokkaus tulostin
             Random RandPiste = new Random();
             Opintopisteet = RandPiste.Next(5, 25);
             Console.WriteLine(Opintopisteet);
