@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\bin\Debug\net6.0\Harjoitus5laskin.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\bin\Debug\net6.0\Harjoitus5laskin.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\bin\Debug\net6.0\Harjoitus5laskin.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\bin\Debug\net6.0\Harjoitus5laskin.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\bin\Debug\net6.0\Harjoitus5laskin.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\refint\Harjoitus5laskin.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\Harjoitus5laskin.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus5laskin\Harjoitus5laskin\obj\Debug\net6.0\ref\Harjoitus5laskin.dll
