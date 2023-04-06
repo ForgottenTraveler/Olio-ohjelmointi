@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\bin\Debug\net6.0\harjoitus3kiuas(kt).exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\bin\Debug\net6.0\harjoitus3kiuas(kt).deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\bin\Debug\net6.0\harjoitus3kiuas(kt).runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\bin\Debug\net6.0\harjoitus3kiuas(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\bin\Debug\net6.0\harjoitus3kiuas(kt).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\refint\harjoitus3kiuas(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\harjoitus3kiuas(kt).genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\obj\Debug\net6.0\ref\harjoitus3kiuas(kt).dll
