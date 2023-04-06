@@ -7,8 +7,8 @@ internal class Program
         Kiuas kiuas = new Kiuas("Testikiuas", 0, 0, false);
         kiuas.TulostaTiedot();
 
-        kiuas.VaihdaLampotila(70);
-        kiuas.VaihdaKosteus(50);
+        kiuas.VaihdaLampotila(60);
+        kiuas.VaihdaKosteus(40);
         kiuas.TulostaTiedot();
 
         kiuas.Tila = true;

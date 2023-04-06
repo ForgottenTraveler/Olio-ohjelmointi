@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\bin\Debug\net6.0\Albumi(KT).exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\bin\Debug\net6.0\Albumi(KT).deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\bin\Debug\net6.0\Albumi(KT).runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\bin\Debug\net6.0\Albumi(KT).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\bin\Debug\net6.0\Albumi(KT).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\refint\Albumi(KT).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\Albumi(KT).genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Albumi(KT)\Albumi(KT)\obj\Debug\net6.0\ref\Albumi(KT).dll
