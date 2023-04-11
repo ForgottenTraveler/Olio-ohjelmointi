@@ -1,0 +1,5 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.csproj.CoreCompileInputs.cache
