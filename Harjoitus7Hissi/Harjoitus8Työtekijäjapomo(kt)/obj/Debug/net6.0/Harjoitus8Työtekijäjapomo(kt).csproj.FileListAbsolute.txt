@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\bin\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\bin\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\bin\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\bin\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\bin\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\refint\Harjoitus8Työtekijäjapomo(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\Harjoitus8Työtekijäjapomo(kt).genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus8Työtekijäjapomo(kt)\obj\Debug\net6.0\ref\Harjoitus8Työtekijäjapomo(kt).dll
