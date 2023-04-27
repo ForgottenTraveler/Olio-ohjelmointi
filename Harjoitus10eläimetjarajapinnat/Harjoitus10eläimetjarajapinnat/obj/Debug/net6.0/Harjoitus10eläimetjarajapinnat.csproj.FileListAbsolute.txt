@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\bin\Debug\net6.0\Harjoitus10eläimetjarajapinnat.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\bin\Debug\net6.0\Harjoitus10eläimetjarajapinnat.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\bin\Debug\net6.0\Harjoitus10eläimetjarajapinnat.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\bin\Debug\net6.0\Harjoitus10eläimetjarajapinnat.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\bin\Debug\net6.0\Harjoitus10eläimetjarajapinnat.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\refint\Harjoitus10eläimetjarajapinnat.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\Harjoitus10eläimetjarajapinnat.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus10eläimetjarajapinnat\Harjoitus10eläimetjarajapinnat\obj\Debug\net6.0\ref\Harjoitus10eläimetjarajapinnat.dll
