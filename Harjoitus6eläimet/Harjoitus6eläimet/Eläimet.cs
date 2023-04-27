@@ -6,32 +6,32 @@ using System.Threading.Tasks;
 
 namespace Harjoitus6eläimet
 {
-    internal class Eläimet 
+    abstract class Eläimet 
     {
-        public int Maxikä;
-        public abstract int Maxikä { get; set; }
-        private string Nimi;
+        public int maxIkä;
+        public abstract int MaxIkä { get; set; }
+        private string nimi;
         public string Nimi { get; set; }
-        private int Ikä;
+        private int ikä;
         public virtual int Ikä
         {
-            get { return Ikä; }
-            set 
+            get { return ikä; }
+            set
             {
                 if (value < 0)
                 {
-                    Console.WriteLine("Annettu ikä on pienempi kuin 0, Eläimen ikä on asetettu 0");
+                    Console.WriteLine("Annettu ikä on pienempi kuin 0, Eläimen ikä asetettu 0");
                     value = 0;
                 }
-                else if (value > Maxikä)
+                else if (value > MaxIkä)
                 {
-                    Console.WriteLine("Annettu ikä ylittää {0}. Eläimen iäksi asetettu {1}",Maxikä, Maxikä - 1);
-                    value = Maxikä - 1;
+                    Console.WriteLine("Annettu ikä ylittää {0}. Eläimen iäksi asetettu {1}", MaxIkä, MaxIkä - 1);
+                    value = MaxIkä - 1;
                 }
 
-                Ikä = value;
+                ikä = value;
             }
-        }       
+        }
         private static int intanssi = 0;
 
         public Eläimet()
@@ -42,6 +42,6 @@ namespace Harjoitus6eläimet
         {
             Console.WriteLine("Eläintä on yhteensä luotu " + intanssi + " kappaletta");
         }
-        public abstract ääntele();
+        public abstract void ääntele();
     }
 }

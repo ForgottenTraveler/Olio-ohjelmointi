@@ -3,3 +3,13 @@ C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.AssemblyInfoInputs.cache
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.AssemblyInfo.cs
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\bin\Debug\net6.0\Harjoitus6eläimet.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\bin\Debug\net6.0\Harjoitus6eläimet.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\bin\Debug\net6.0\Harjoitus6eläimet.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\bin\Debug\net6.0\Harjoitus6eläimet.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\bin\Debug\net6.0\Harjoitus6eläimet.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\refint\Harjoitus6eläimet.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\Harjoitus6eläimet.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus6eläimet\Harjoitus6eläimet\obj\Debug\net6.0\ref\Harjoitus6eläimet.dll

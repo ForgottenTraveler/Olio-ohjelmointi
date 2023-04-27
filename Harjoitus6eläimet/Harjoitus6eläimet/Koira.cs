@@ -8,11 +8,11 @@ namespace Harjoitus6eläimet
 {
     internal class Koira : Eläimet
     {
-        public override int Maxikä { get => Maxikä; set => Maxikä = value; }
+        public override int MaxIkä { get => maxIkä; set => maxIkä = value; }
         private static int intanssi = 0;
         public Koira(string _nimi, int _ikä) 
         {
-            Maxikä = 30;
+            MaxIkä = 25;
 
             Nimi = _nimi;
             Ikä = _ikä;

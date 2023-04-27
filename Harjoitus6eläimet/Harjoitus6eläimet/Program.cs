@@ -2,16 +2,16 @@
 
 internal class Program
 {
-    private static void Main(string[] args)
+    static void Main(string[] args)
     {
         Kissa Elia = new Kissa("Elia", 14);
-        Kissa Alias = new Kissa("Alias", 25);
+        Kissa Alias = new Kissa("Alias", 13);
 
         Elia.ääntele();
         Alias.ääntele();
 
-        Koira Emma = new Koira("Emma", 9);
-        Koira Emma2 = new Koira("Emma2", 12);
+        Koira Emma = new Koira("Emma", 20);
+        Koira Emma2 = new Koira("Emma", -1);
 
         Emma.ääntele();
 
