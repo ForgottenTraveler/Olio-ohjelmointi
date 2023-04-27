@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\bin\Debug\net6.0\Harjoitus7Hissi.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\bin\Debug\net6.0\Harjoitus7Hissi.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\bin\Debug\net6.0\Harjoitus7Hissi.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\bin\Debug\net6.0\Harjoitus7Hissi.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\bin\Debug\net6.0\Harjoitus7Hissi.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\refint\Harjoitus7Hissi.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\Harjoitus7Hissi.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus7Hissi\Harjoitus7Hissi\obj\Debug\net6.0\ref\Harjoitus7Hissi.dll
