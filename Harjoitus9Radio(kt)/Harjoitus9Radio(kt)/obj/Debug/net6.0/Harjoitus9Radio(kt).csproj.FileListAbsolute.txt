@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\bin\Debug\net6.0\Harjoitus9Radio(kt).exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\bin\Debug\net6.0\Harjoitus9Radio(kt).deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\bin\Debug\net6.0\Harjoitus9Radio(kt).runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\bin\Debug\net6.0\Harjoitus9Radio(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\bin\Debug\net6.0\Harjoitus9Radio(kt).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\refint\Harjoitus9Radio(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\Harjoitus9Radio(kt).genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus9Radio(kt)\Harjoitus9Radio(kt)\obj\Debug\net6.0\ref\Harjoitus9Radio(kt).dll
