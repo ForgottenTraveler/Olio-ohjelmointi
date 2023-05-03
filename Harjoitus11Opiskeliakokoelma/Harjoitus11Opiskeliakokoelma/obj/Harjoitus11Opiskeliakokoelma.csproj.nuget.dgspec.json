@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\harjoitus2opiskelija\\harjoitus2opiskelija\\harjoitus2opiskelija.csproj": {}
+    "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\harjoitus2opiskelija\\harjoitus2opiskelija\\harjoitus2opiskelija.csproj": {
+    "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\harjoitus2opiskelija\\harjoitus2opiskelija\\harjoitus2opiskelija.csproj",
-        "projectName": "harjoitus2opiskelija",
-        "projectPath": "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\harjoitus2opiskelija\\harjoitus2opiskelija\\harjoitus2opiskelija.csproj",
+        "projectUniqueName": "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma.csproj",
+        "projectName": "Harjoitus11Opiskeliakokoelma",
+        "projectPath": "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma.csproj",
         "packagesPath": "C:\\Users\\antti.nguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\harjoitus2opiskelija\\harjoitus2opiskelija\\obj\\",
+        "outputPath": "C:\\Users\\antti.nguyen\\source\\repos\\ForgottenTraveler\\Olio-ohjelmointi\\Harjoitus11Opiskeliakokoelma\\Harjoitus11Opiskeliakokoelma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
