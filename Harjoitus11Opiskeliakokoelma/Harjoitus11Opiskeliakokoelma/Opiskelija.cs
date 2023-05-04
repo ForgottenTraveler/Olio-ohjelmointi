@@ -6,24 +6,25 @@ using System.Threading.Tasks;
 
 namespace Harjoitus11Opiskeliakokoelma
 {
-    internal class Opiskelija
+    class Opiskelija
     {
         private string etunimi;
         private string sukunimi;
-        private string OpiskelijaID;
+        private string opiskelijaID;
         public string Etunimi { get => etunimi; }
         public string Sukunimi { get => sukunimi; }
-        public string opiskelijaID { get=> OpiskelijaID; }
-        public Opiskelija(string _etunimi, string Sukunimi,string _opiskelijaID)
+        public string OpiskelijaID { get=> opiskelijaID; }
+        public Opiskelija(string etunimi, string Sukunimi,string opiskelijaID)
         {
-            this.etunimi = _etunimi;
+            this.etunimi = etunimi;
             this.sukunimi = Sukunimi;
-            this.OpiskelijaID = _opiskelijaID;
+            this.opiskelijaID = opiskelijaID;
+        }
+        public string Getdata()
+        {
+            return Etunimi + " " + Sukunimi + ". ID: " + OpiskelijaID;
         }
     }
     
-    public string getdata()
-    {
-        return Etunimi + " " + Sukunimi + ". ID: " + opiskelijaId;
-    }
+    
 }

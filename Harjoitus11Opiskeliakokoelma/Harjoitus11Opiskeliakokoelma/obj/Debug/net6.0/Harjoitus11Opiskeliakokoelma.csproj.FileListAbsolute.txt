@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\bin\Debug\net6.0\Harjoitus11Opiskeliakokoelma.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\bin\Debug\net6.0\Harjoitus11Opiskeliakokoelma.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\bin\Debug\net6.0\Harjoitus11Opiskeliakokoelma.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\bin\Debug\net6.0\Harjoitus11Opiskeliakokoelma.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\bin\Debug\net6.0\Harjoitus11Opiskeliakokoelma.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\refint\Harjoitus11Opiskeliakokoelma.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\Harjoitus11Opiskeliakokoelma.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus11Opiskeliakokoelma\Harjoitus11Opiskeliakokoelma\obj\Debug\net6.0\ref\Harjoitus11Opiskeliakokoelma.dll
