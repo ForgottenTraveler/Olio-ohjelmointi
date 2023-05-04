@@ -12,7 +12,7 @@ class Program
             Console.WriteLine("Olet kommennoissa jonka voit valita: Näytä, Lisää, Poista tai Poistu");
             lukija = Console.ReadLine().ToLower();
 
-            switch(lukija)
+            switch (lukija)
             {
                 case "näytä":
                     Manageri.Tulostakokoelma();
