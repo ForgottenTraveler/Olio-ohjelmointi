@@ -1,0 +1,16 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\bin\Debug\Harjoitus15Autolaskuri2.0.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\bin\Debug\Harjoitus15Autolaskuri2.0.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\bin\Debug\Harjoitus15Autolaskuri2.0.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2._0.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus15Autolaskuri2.0\Harjoitus15Autolaskuri2.0\obj\Debug\Harjoitus15Autolaskuri2.0.pdb

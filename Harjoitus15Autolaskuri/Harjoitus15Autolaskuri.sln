@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus15Autolaskuri", "Harjoitus15Autolaskuri\Harjoitus15Autolaskuri.csproj", "{F84FE20F-BE80-49FD-B745-B02C47FE8FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84FE20F-BE80-49FD-B745-B02C47FE8FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84FE20F-BE80-49FD-B745-B02C47FE8FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84FE20F-BE80-49FD-B745-B02C47FE8FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84FE20F-BE80-49FD-B745-B02C47FE8FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD43F74-9AC8-43A7-B402-2C10ECF5F383}
+	EndGlobalSection
+EndGlobal
