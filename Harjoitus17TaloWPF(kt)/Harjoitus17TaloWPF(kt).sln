@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus17TaloWPF(kt)", "Harjoitus17TaloWPF(kt)\Harjoitus17TaloWPF(kt).csproj", "{FF12CCCA-210D-4009-B180-E6AC40E7D987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF12CCCA-210D-4009-B180-E6AC40E7D987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF12CCCA-210D-4009-B180-E6AC40E7D987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF12CCCA-210D-4009-B180-E6AC40E7D987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF12CCCA-210D-4009-B180-E6AC40E7D987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D567CDA-7A34-4371-952E-EFEF9B2D35CC}
+	EndGlobalSection
+EndGlobal
