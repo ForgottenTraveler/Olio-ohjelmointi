@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.AssemblyInfoInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.AssemblyInfo.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\bin\Debug\net6.0\Harjoitus14Muistiinpanot.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\bin\Debug\net6.0\Harjoitus14Muistiinpanot.deps.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\bin\Debug\net6.0\Harjoitus14Muistiinpanot.runtimeconfig.json
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\bin\Debug\net6.0\Harjoitus14Muistiinpanot.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\bin\Debug\net6.0\Harjoitus14Muistiinpanot.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\refint\Harjoitus14Muistiinpanot.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\Harjoitus14Muistiinpanot.genruntimeconfig.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus14Muistiinpanot\Harjoitus14Muistiinpanot\obj\Debug\net6.0\ref\Harjoitus14Muistiinpanot.dll
