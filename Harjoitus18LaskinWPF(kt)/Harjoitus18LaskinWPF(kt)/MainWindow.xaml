@@ -1,0 +1,25 @@
+﻿<Window x:Class="Harjoitus18LaskinWPF_kt_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus18LaskinWPF_kt_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFFFA1A1">
+        <Button x:Name="SummaNappi" Content="Summa" HorizontalAlignment="Left" Margin="321,192,0,0" VerticalAlignment="Top" Click="Summa_onClick"/>
+        <Button x:Name="JaaNappi" Content="JakoLasku" HorizontalAlignment="Left" Margin="308,267,0,0" VerticalAlignment="Top" Click="JakoLasku_onclick"/>
+        <Button x:Name="MiinusNappi" Content="Erotus" HorizontalAlignment="Left" Margin="328,217,0,0" VerticalAlignment="Top" Click="Erotus_onClick"/>
+        <Button x:Name="KertoNappi" Content="KertoLasku" HorizontalAlignment="Left" Margin="303,242,0,0" VerticalAlignment="Top" Click="KertoLasku_onclick"/>
+        <TextBlock x:Name="TextBlock2" HorizontalAlignment="Left" Margin="377,219,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <TextBlock x:Name="TextBlock1" HorizontalAlignment="Left" Margin="377,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <TextBlock x:Name="TextBlock3" HorizontalAlignment="Left" Margin="377,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <TextBlock x:Name="TextBlock4" HorizontalAlignment="Left" Margin="377,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="EkaNumero" HorizontalAlignment="Left" Margin="308,147,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="ToinenNumero" HorizontalAlignment="Left" Margin="376,147,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="54"/>
+        <Label Content="Eka Numero" HorizontalAlignment="Left" Margin="290,116,0,0" VerticalAlignment="Top"/>
+        <Label Content="Toinen Numero" HorizontalAlignment="Left" Margin="376,116,0,0" VerticalAlignment="Top"/>
+        <Label Content="Laskuri" HorizontalAlignment="Left" Margin="353,76,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
