@@ -7,13 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="LightSwitchOn" Content="On" HorizontalAlignment="Left" Margin="237,166,0,0" VerticalAlignment="Top" Click="KitchenlightOn" Width="40"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="237,191,0,0" VerticalAlignment="Top"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="237,217,0,0" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="282,168,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="282,193,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="282,219,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <Button x:Name="LightSwitchOff" Content="Off" HorizontalAlignment="Left" Margin="192,166,0,0" VerticalAlignment="Top" Click="KitchenlightOff" Width="40"/>
+        <Button x:Name="LightSwitchOn" Content="On" HorizontalAlignment="Left" Margin="232,162,0,0" VerticalAlignment="Top" Click="KitchenlightOn" Width="40"/>
+        <Button x:Name="OlohuoneOn" Content="On" HorizontalAlignment="Left" Margin="232,187,0,0" VerticalAlignment="Top" Width="40" Click="OloHuoneIsOn"/>
+        <Button x:Name="OviLukossaOn" Content="Sulje" HorizontalAlignment="Left" Margin="232,213,0,0" VerticalAlignment="Top" Width="40" Click="Ovi_Lukossa"/>
+        <TextBlock x:Name="TextBlock1" HorizontalAlignment="Left" Margin="277,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Text="Keittiö Valo: Off"/>
+        <TextBlock x:Name="TextBlock2" HorizontalAlignment="Left" Margin="277,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Text="OloHuone Valo: Off"/>
+        <TextBlock x:Name="TextBlock3" HorizontalAlignment="Left" Margin="277,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Text="Ovi Lukossa"/>
+        <Button x:Name="LightSwitchOff" Content="Off" HorizontalAlignment="Left" Margin="187,162,0,0" VerticalAlignment="Top" Click="KitchenlightOff" Width="40"/>
+        <Button x:Name="OlohuoneOff" Content="Off" HorizontalAlignment="Left" Margin="187,187,0,0" VerticalAlignment="Top" Width="40" Click="OloHuoneisOff"/>
+        <Button x:Name="OviLukossaOff" Content="Avaa" HorizontalAlignment="Left" Margin="187,213,0,0" VerticalAlignment="Top" Width="40" Click="Ovi_Auki"/>
+        <Button x:Name="Lisäänappi" Content="Lisää Lämpötila" HorizontalAlignment="Left" Margin="232,238,0,0" VerticalAlignment="Top" Click="Lisää_onClick"/>
+        <Button x:Name="Vähennänappi" Content="Vähennä Lämpötila" HorizontalAlignment="Left" Margin="112,238,0,0" VerticalAlignment="Top" Width="115" Height="20" Click="Vähennys_OnClick"/>
+        <TextBlock x:Name="NOLAD" HorizontalAlignment="Left" Margin="322,240,0,0" TextWrapping="Wrap" Text="Lämpötila:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="Textblocko4" HorizontalAlignment="Left" Margin="382,240,0,0" TextWrapping="Wrap" Text="0℃" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

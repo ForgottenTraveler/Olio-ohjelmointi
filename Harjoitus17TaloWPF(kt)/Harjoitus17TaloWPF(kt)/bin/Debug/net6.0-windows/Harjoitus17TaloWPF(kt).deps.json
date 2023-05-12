@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Harjoitus17TaloWPF(kt)/1.0.0": {
+        "runtime": {
+          "Harjoitus17TaloWPF(kt).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harjoitus17TaloWPF(kt)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
