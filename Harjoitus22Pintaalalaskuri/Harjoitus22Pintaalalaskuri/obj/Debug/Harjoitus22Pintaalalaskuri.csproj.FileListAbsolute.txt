@@ -1,0 +1,16 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\bin\Debug\Harjoitus22Pintaalalaskuri.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\bin\Debug\Harjoitus22Pintaalalaskuri.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\bin\Debug\Harjoitus22Pintaalalaskuri.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus22Pintaalalaskuri\Harjoitus22Pintaalalaskuri\obj\Debug\Harjoitus22Pintaalalaskuri.pdb
