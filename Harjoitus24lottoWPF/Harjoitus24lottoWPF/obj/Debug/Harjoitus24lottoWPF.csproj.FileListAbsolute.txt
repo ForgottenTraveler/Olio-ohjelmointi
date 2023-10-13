@@ -1,0 +1,16 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\bin\Debug\Harjoitus24lottoWPF.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\bin\Debug\Harjoitus24lottoWPF.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\bin\Debug\Harjoitus24lottoWPF.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus24lottoWPF\Harjoitus24lottoWPF\obj\Debug\Harjoitus24lottoWPF.pdb
