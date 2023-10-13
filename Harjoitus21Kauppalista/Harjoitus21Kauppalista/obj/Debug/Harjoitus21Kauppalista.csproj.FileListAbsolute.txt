@@ -1,0 +1,16 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\bin\Debug\Harjoitus21Kauppalista.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\bin\Debug\Harjoitus21Kauppalista.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\bin\Debug\Harjoitus21Kauppalista.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.csproj.SuggestedBindingRedirects.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus21Kauppalista\Harjoitus21Kauppalista\obj\Debug\Harjoitus21Kauppalista.pdb
