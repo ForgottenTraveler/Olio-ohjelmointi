@@ -74,7 +74,7 @@ namespace Harjoitus20OpiskelijaWPF
 
         private void btnLoadFromFile_Click(object sender, RoutedEventArgs e)
         {
-            // Yritetään ladata opiskelijat tiedostosta
+            // lataa opiskelijan tiedostosta
             try
             {
                 using (FileStream fs = new FileStream("opiskelijat.dat", FileMode.Open))

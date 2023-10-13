@@ -8,6 +8,7 @@ namespace Harjoitus20OpiskelijaWPF
 {
     public class Opiskelija
     {
+        //Opiskelija tiedot
         public string Etunimi { get; set; }
         public string Sukunimi { get; set; }
         public int OpiskelijaID { get; set; }
