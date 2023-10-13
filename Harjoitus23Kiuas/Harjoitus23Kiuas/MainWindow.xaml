@@ -1,0 +1,28 @@
+﻿<Window x:Class="Harjoitus23Kiuas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus23Kiuas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Lämpötila:" VerticalAlignment="Center" Margin="10"/>
+        <TextBlock Name="txtLampotila" Grid.Column="1" VerticalAlignment="Center" Margin="10"/>
+
+        <TextBlock Text="Kosteus:" Grid.Row="1" Margin="10"/>
+        <TextBlock Name="txtKosteus" Grid.Row="1" Grid.Column="1" Margin="10"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <Button Content="Lisää Lämpötila" Click="btnLisaaLampotila_Click" Margin="5"/>
+            <Button Content="Vähennä Lämpötila" Click="btnVahennaLampotila_Click" Margin="5"/>
+            <Button Content="Lisää Kosteus" Click="btnLisaaKosteus_Click" Margin="5"/>
+            <Button Content="Vähennä Kosteus" Click="btnVahennaKosteus_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

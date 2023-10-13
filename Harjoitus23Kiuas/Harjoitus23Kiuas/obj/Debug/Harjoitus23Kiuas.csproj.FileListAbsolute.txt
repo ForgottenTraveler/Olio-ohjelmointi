@@ -1,0 +1,16 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\bin\Debug\Harjoitus23Kiuas.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\bin\Debug\Harjoitus23Kiuas.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\bin\Debug\Harjoitus23Kiuas.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.csproj.SuggestedBindingRedirects.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus23Kiuas\Harjoitus23Kiuas\obj\Debug\Harjoitus23Kiuas.pdb
