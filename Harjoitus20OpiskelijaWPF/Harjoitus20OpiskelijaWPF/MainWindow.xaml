@@ -7,6 +7,30 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel Name="StockPanel" Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Etunimi:"/>
+                <TextBox Name="txtEtunimi"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Sukunimi:"/>
+                <TextBox Name="txtSukunimi"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="OpiskelijaID:"/>
+                <TextBox Name="txtOpiskelijaID"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Sähköposti:"/>
+                <TextBox Name="txtSähköposti"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Puhelinnumero:"/>
+                <TextBox Name="txtPuhelinnumero"/>
+            </StackPanel>
+            <Button Content="Luo Opiskelija" Click="btnCreateOpiskelija_Click"/>
+            <Button Content="Tallenna Tiedostoon" Click="btnSaveToFile_Click"/>
+            <Button Content="Lataa Tiedostosta" Click="btnLoadFromFile_Click"/>
+        </StackPanel>
     </Grid>
 </Window>

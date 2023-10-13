@@ -28,14 +28,16 @@ namespace Harjoitus19Hissi
         }
         private void Siirry_Click(object sender, RoutedEventArgs e)
         {
+            // nappula joka antaa messagebox.
             if (int.TryParse(txtKerros.Text, out int syotettyKerros))
             {
+                // kun on latettu numeroa ja painanut nappulan tulee messagebox viesti
                 hissi.Kerros = syotettyKerros;
-                // Voit myös päivittää käyttöliittymää, esimerkiksi näyttämällä nykyisen kerroksen.
                 MessageBox.Show($"Olet kerroksessa {hissi.Kerros}");
             }
             else
-            {
+            { 
+                // viesti josta käyttäjä ei ole laitanut mitään. on vain painanut nappia.
                 MessageBox.Show("Virheellinen syöte! Anna kokonaisluku.");
             }
         }

@@ -1,0 +1,16 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\bin\Debug\Harjoitus20OpiskelijaWPF.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\bin\Debug\Harjoitus20OpiskelijaWPF.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\bin\Debug\Harjoitus20OpiskelijaWPF.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus20OpiskelijaWPF\Harjoitus20OpiskelijaWPF\obj\Debug\Harjoitus20OpiskelijaWPF.pdb

@@ -21,6 +21,7 @@ namespace Harjoitus19Hissi
                 }
                 else
                 {
+                    // virhe tulee kun käyttäjä ei ole syöttänyt kerros numero
                     Console.WriteLine("Virheellinen kerros! Käytä arvoa 1-6.");
                 }
             }
