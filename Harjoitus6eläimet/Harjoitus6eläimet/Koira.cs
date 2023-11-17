@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Harjoitus6eläimet
 {
     internal class Koira : Eläimet
-    {
+    { //Koiran tiedot 
         public override int MaxIkä { get => maxIkä; set => maxIkä = value; }
         private static int intanssi = 0;
         public Koira(string _nimi, int _ikä) 

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Harjoitus6eläimet
 {
     abstract class Eläimet 
-    {
+    { //eläimen tiedot
         public int maxIkä;
         public abstract int MaxIkä { get; set; }
         private string nimi;

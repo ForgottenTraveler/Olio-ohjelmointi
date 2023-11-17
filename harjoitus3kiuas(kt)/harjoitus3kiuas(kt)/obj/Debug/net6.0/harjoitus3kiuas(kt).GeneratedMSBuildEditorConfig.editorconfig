@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = harjoitus3kiuas_kt_
 build_property.ProjectDir = C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\harjoitus3kiuas(kt)\harjoitus3kiuas(kt)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

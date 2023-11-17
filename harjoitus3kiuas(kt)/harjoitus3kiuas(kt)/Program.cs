@@ -3,7 +3,7 @@
 internal class Program
 {
     private static void Main(string[] args)
-    {
+    { //Näyttää kiuas tiedot
         Kiuas kiuas = new Kiuas("Testikiuas", 0, 0, false);
         kiuas.TulostaTiedot();
 

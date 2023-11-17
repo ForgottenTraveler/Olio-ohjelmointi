@@ -7,7 +7,7 @@ class Program
     {
         string lukija = "";
         while (true) 
-        {
+        { //Käytäjä syöttää Näytä, lisää, poista tai poistu komennon ja vie siihen paikalle
             Console.WriteLine();
             Console.WriteLine("Olet kommennoissa jonka voit valita: Näytä, Lisää, Poista tai Poistu");
             lukija = Console.ReadLine().ToLower();
@@ -33,7 +33,7 @@ class Program
         }
     } 
     static void Lisää()
-    {
+    { //Käyttäjä lisää henkilön tiedot
         string etunimi = "";
         string sukunimi = "";
         Console.WriteLine();
@@ -46,7 +46,7 @@ class Program
         Manageri.lisääopiskelija(etunimi, sukunimi);
     }
     static void Poista()
-    {
+    { //Käyttäjä poistaa henkilön tiedot
         if (Manageri.Opiskelijat.Count == 0)
         {
             Console.WriteLine("Kokoelma on tyhjä...");

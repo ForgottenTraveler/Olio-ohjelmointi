@@ -3,7 +3,7 @@
 internal class Program
 {
     static void Main(string[] args)
-    {
+    { //Näyttää kissan ja koiran nimet. minkä ääni niistä kuulet ja kuinka monta.
         Kissa Elia = new Kissa("Elia", 14);
         Kissa Alias = new Kissa("Alias", 13);
 

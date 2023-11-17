@@ -10,7 +10,7 @@ namespace Harjoitus11Opiskeliakokoelma
     {
         public static Dictionary<string, Opiskelija> Opiskelijat = new Dictionary<string, Opiskelija>();
         public static void lisääopiskelija(string etunimi, string sukunimi)
-        {
+        {//Lisääopiskelija paikka
             bool sallittu = false;
             string opiskelijaID = "";
             while (!sallittu)
@@ -34,7 +34,7 @@ namespace Harjoitus11Opiskeliakokoelma
             }
         }
         public static bool TarkistaID(string id)
-        {
+        {//Tarkistaa että käyttäjä on syöttänyt kunnolla
             if(Opiskelijat.ContainsKey(id))
             {
                 throw new Poikkeus("OpiskelijaID " + id + " ei ole uniikki, anna uusi ID");
@@ -49,7 +49,7 @@ namespace Harjoitus11Opiskeliakokoelma
             }
         }
         public static void PoistaOpiskelija(int syötettyIndex)
-        {
+        { //Poistaa henkilö tiedot
             int i = 0;
             foreach (string avain in Opiskelijat.Keys)
             {
@@ -63,7 +63,7 @@ namespace Harjoitus11Opiskeliakokoelma
             }
         }
         public static void Tulostakokoelma()
-        {
+        { //Tulostaa käyttäjän lisäämät henkilö tiedot.
             if (Opiskelijat.Count == 0) 
             {
                 TulostaViesti("Kokoelma on tyhjä...");

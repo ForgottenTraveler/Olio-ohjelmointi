@@ -3,7 +3,6 @@ C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus1
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\bin\Debug\net6.0\Harjoitus12korttipakka(kt).runtimeconfig.json
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\bin\Debug\net6.0\Harjoitus12korttipakka(kt).dll
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\bin\Debug\net6.0\Harjoitus12korttipakka(kt).pdb
-C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).csproj.AssemblyReference.cache
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).AssemblyInfoInputs.cache
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus1
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).pdb
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).genruntimeconfig.cache
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\ref\Harjoitus12korttipakka(kt).dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus12korttipakka(kt)\Harjoitus12korttipakka(kt)\obj\Debug\net6.0\Harjoitus12korttipakka(kt).sourcelink.json

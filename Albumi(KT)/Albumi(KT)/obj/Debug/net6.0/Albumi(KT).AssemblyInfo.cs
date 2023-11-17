@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Albumi(KT)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1dde36e4945fa96af301b2ee4abdac662d94837")]
 [assembly: System.Reflection.AssemblyProductAttribute("Albumi(KT)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Albumi(KT)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

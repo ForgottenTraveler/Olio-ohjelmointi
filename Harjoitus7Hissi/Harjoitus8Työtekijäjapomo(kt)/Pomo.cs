@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Harjoitus8Työtekijäjapomo_kt_
 {
     internal class Pomo : Henkilö
-    {
+    {//Johtajan tiedot
         private static bool johtajaOnolemassa = false;
         private double bonus;
         private string auto;

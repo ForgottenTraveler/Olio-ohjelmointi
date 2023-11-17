@@ -3,7 +3,7 @@
 internal class Program
 {
     private static void Main(string[] args)
-    {
+    { //Näyttää henkilö
         Henkilö henkilö1 = new Työntekijä() { Nimi = "Mellukka Jokimielinen", Työpaikka = "Ohjelmoija", Palkka = 1234, viikkoTunnit = 34.2 };
         Henkilö henkilö2 = new Pomo() { Nimi = "Olli Kollasti", Työpaikka = "Toimutusjohtaja", Palkka = 4356, Bonus = 4200, Auto = "Toyota" };
         Henkilö henkilö3 = new Työntekijä() { Nimi = "Liisa Liuska", Työpaikka = "Myynnin assistentti", Palkka = 2500, viikkoTunnit = 30 };

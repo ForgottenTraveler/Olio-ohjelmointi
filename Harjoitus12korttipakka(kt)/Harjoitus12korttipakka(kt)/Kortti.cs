@@ -12,7 +12,7 @@ namespace Harjoitus12korttipakka_kt_
         public string Numero { get; set; }
 
         public Kortti(string maa, string numero)
-        {
+        { //Kortti näkymä esim kortti näkymässä on 9 sydän.
             Maa = maa;
             Numero = numero;
         }

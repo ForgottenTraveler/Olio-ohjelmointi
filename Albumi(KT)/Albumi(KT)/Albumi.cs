@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Albumi_KT_
 {
     internal class Albumi
-    {
+    { //Albumi tiedot
         public string Artisti { get; set; }
         public string Nimi { get; set; }
         public string Genre { get; set; }

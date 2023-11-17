@@ -16,9 +16,9 @@
             }
             bool poistutaanko = false;
             while (!poistutaanko)
-            {
+            {//komento käyttäjä laittaa jonkun esim Lisää, Näytä, poista tai poistu ja se vie käyttäjän siihen paikkoihin
                 Console.WriteLine("--------------------------------");
-                Console.WriteLine("Anna kometo: Lisää, Näytä, Poista, Poistu");
+                Console.WriteLine("Anna komento: Lisää, Näytä, Poista, Poistu");
                 lukija = Console.ReadLine().ToLower();
                 switch (lukija)
                 {
@@ -46,7 +46,7 @@
             Console.WriteLine(ex.Message);
         }
         static void LisääMuistiinpano(string filepath)
-        {
+        { //Lisää muisti kun on kirjoitettu
             string lukija = "";
             Console.WriteLine("Kirjoita uusi muistiinpano: \n");
             lukija = Console.ReadLine();
@@ -56,7 +56,7 @@
             }
         }
         static void NäytäMuistiinpanot(string filepath)
-        {
+        { //Näyttää kaikki muistiinpanot
             Console.WriteLine();
             string[] rivit = File.ReadAllLines(filepath);
             foreach (string rivi in rivit)
@@ -65,7 +65,7 @@
             }
         }
         static void PoistaMuistiinpanot(string filepath)
-        {
+        { //Poistaa muistiinpanot
             File.WriteAllText(filepath, "Muistiinpanot: ");
         }
 

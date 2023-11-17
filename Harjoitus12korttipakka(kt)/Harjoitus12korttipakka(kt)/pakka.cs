@@ -27,13 +27,14 @@ namespace Harjoitus12korttipakka_kt_
         }
         public void Tulostakortti()
         {
+            //Tulostaa kortti
             foreach (Kortti kortti in kortit)
             {
                 Console.WriteLine(kortti);
             }
         }
         public void shuffle()
-        {
+        { //Sekoittaa korttia
             Random rnd = new Random();
             int n = kortit.Count;
             while (n > 1)

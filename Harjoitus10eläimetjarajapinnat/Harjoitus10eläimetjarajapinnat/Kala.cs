@@ -9,7 +9,7 @@ namespace Harjoitus10eläimetjarajapinnat
     public class Kala : Animal, ICanSwim
     {
         protected int swimSpeed;
-
+        //Kala tiedot
         public Kala(string name, int swimSpeed) : base(name)
         {
             this.swimSpeed = swimSpeed;

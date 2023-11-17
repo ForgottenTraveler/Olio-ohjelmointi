@@ -3,7 +3,8 @@
 internal class Program
 {
     private static void Main(string[] args)
-    {
+    { //harjoitus 4...
+        //Albumi tiedot ja albumin kappaleet ja sen kuinka pitkää se kestää ennen kuin vaihdaa seuraavaan kappaleeseen
         Kappale[] kappaleet = {
                 new Kappale("--- Nimi: Snail's House - bloom", "2:40"),
                 new Kappale("--- Nimi: Snail's House - if (ujbeats vol.1)", "3:53"),

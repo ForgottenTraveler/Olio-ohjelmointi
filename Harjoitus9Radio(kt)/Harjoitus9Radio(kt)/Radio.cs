@@ -14,19 +14,19 @@ namespace Harjoitus9Radio_kt_
         private List<Kanava> _kanavat = new List<Kanava>();
 
         public void Päälle()
-        {
+        { //laittaa radio päälle
             _isOn = true;
             Console.WriteLine("Radio päällä");
         }
 
         public void Pois()
-        {
+        { //laittaa radion poist päältä
             _isOn = false;
             Console.WriteLine("Radio pois päältä");
         }
 
         public void SäädäÄänenvoimakkuus(int volume)
-        {
+        { //Säädää radion äänivoimakkuus
             if (volume >= 0 && volume <= 9)
             {
                 _volume = volume;
@@ -39,7 +39,7 @@ namespace Harjoitus9Radio_kt_
         }
 
         public void VaihdaKanava(double frequency)
-        {
+        { //Vaihdaa radion kanava
             if (frequency >= 88.0 && frequency <= 107.9)
             {
                 foreach (var kanava in _kanavat)

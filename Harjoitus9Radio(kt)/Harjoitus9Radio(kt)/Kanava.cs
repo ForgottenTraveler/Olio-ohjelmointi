@@ -8,6 +8,7 @@ namespace Harjoitus9Radio_kt_
 {
     internal class Kanava
     {
+        //Radion kanava tiedot
         public string Nimi { get; set; }
         public double Taajuus { get; set; }
 

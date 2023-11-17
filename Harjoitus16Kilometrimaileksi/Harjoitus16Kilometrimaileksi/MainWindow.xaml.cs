@@ -25,8 +25,9 @@ namespace Harjoitus16Kilometrimaileksi
             InitializeComponent();
         }
         private void VaihdaKmMl(object sender, RoutedEventArgs e)
-        {
+        { //Käyttäjä antaa numero Float 1
             float Luku1;
+            //Result laskee float 1 annettu luku ja vaihtaa sen annettu lukua KmMl:lään
             bool result = float.TryParse(Tekstiruutu.Text, out Luku1);
             if (result)
             {
@@ -42,6 +43,7 @@ namespace Harjoitus16Kilometrimaileksi
         private void VaihdaMlKm(object sender, RoutedEventArgs e)
         {
             float Luku1;
+            //Tämä result on sama kuin ylhäällä mutta vaihdaa sen MlKm
             bool result = float.TryParse(Tekstiruutu.Text, out Luku1);
             if (result)
             {
@@ -55,15 +57,16 @@ namespace Harjoitus16Kilometrimaileksi
         }
         private void PäivitäTeksti(string Teksti)
         {
+            //Tämä päivittää kun nappia onjo painettu
             Tekstiruutu1.Text = Teksti;
         }
         private static float KilometriMileen(float a)
-        {
+        { //Lasku palautus
             float conversion = 0.62137f;
             return a * conversion;
         }
         private static float MetriKilometriin(float a)
-        {
+        { //Lasku palautus
             float Conversion = 1.609344f;
             return a * Conversion;
         }

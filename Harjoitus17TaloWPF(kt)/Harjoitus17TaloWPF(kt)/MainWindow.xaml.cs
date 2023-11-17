@@ -34,32 +34,32 @@ namespace Harjoitus17TaloWPF_kt_
         public float Vähennys;
 
         private void KitchenlightOn(object sender, RoutedEventArgs e)
-        {
+        { //Laittaa Keittö valo pääle
             TextBlock1.Text = "Keittiö Valo: On";
         }
 
         private void KitchenlightOff(object sender, RoutedEventArgs e)
-        {
+        { //Laittaa Keittö valo pois päältä
             TextBlock1.Text = "Keittiö Valo: Off";
         }
 
         private void OloHuoneIsOn(object sender, RoutedEventArgs e)
-        {
+        { //Laittaa Olohuone valo pääle
             TextBlock2.Text = "OloHuone Valo: On";
         }
 
         private void OloHuoneisOff(object sender, RoutedEventArgs e)
-        {
+        { // Laittaa Olohuone valo pois päältä
             TextBlock2.Text = "OloHuone Valo: Off";
         }
 
         private void Ovi_Lukossa(object sender, RoutedEventArgs e)
-        {
+        { //Laittaa Ovi lukkoon
             TextBlock3.Text = "Ovi Lukossa";
         }
 
         private void Ovi_Auki(object sender, RoutedEventArgs e)
-        {
+        { //Laitta ovet avattuna
             TextBlock3.Text = "Ovi Avattu";
         }
 

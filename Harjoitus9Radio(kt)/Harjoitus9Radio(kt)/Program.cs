@@ -9,7 +9,7 @@ internal class Program
         radio.LisääKanava(new Kanava("NRJ", 96.4));
 
         while (true)
-        {
+        { //Käyttäjä kayttää komento ja vie sen paikalle
             Console.WriteLine("Valitse toiminto:");
             Console.WriteLine("1. Päälle");
             Console.WriteLine("2. Pois");

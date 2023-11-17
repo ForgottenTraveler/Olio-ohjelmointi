@@ -9,7 +9,7 @@ namespace Harjoitus11Opiskeliakokoelma
     class Poikkeus : Exception
     {
         public Poikkeus(string message) : base(message)
-        {
+        { //Poikkeus paikka
             Console.WriteLine();
             Console.WriteLine("----Error----");
             Console.WriteLine("Error: " + message);

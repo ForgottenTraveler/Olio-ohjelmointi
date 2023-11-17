@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harjoitus14Muistiinpanot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1dde36e4945fa96af301b2ee4abdac662d94837")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harjoitus14Muistiinpanot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harjoitus14Muistiinpanot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@ internal class Program
         Console.WriteLine("Tervetuloa käyttämään hissiä. Poistu hissistä kirjoittamalla 'Poistu'");
 
         while(true)
-        {
+        {//käyttäjä laittaa komento mihin kerrokseen hän haluaa tai poistuu paikalta.
             Console.WriteLine();
             Console.Write("Anna uusi kerros ({0]) < " + hissi.PalautusMinMax());
             Console.WriteLine();

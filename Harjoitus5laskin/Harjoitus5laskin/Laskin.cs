@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Harjoitus5laskin
 {
     internal class Laskin
-    {
+    {//Lakee float a ja b mitä käyttäjä on syöttänyt ja palauttaa sen
         public static float Summa (float a, float b)
         {
             return a + b;

@@ -9,7 +9,7 @@ namespace Harjoitus10eläimetjarajapinnat
     public class Lintu : Animal, ICanFly
     {
         protected int wingSize;
-
+        //lintu tiedot
         public Lintu(string name, int wingSize) : base(name)
         {
             this.wingSize = wingSize;

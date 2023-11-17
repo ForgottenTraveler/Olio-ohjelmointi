@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Harjoitus11Opiskeliakokoelma
 {
     class Opiskelija
-    {
+    { //Henkilön tiedot
         private string etunimi;
         private string sukunimi;
         private string opiskelijaID;
@@ -21,7 +21,7 @@ namespace Harjoitus11Opiskeliakokoelma
             this.opiskelijaID = opiskelijaID;
         }
         public string Getdata()
-        {
+        { //palauttaa tiedot
             return Etunimi + " " + Sukunimi + ". ID: " + OpiskelijaID;
         }
     }

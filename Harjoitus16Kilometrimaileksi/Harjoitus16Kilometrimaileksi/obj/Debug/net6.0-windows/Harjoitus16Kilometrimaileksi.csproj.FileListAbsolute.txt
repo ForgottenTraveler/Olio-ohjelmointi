@@ -3,7 +3,6 @@ C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus1
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\bin\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.runtimeconfig.json
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\bin\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.dll
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\bin\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.pdb
-C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.csproj.AssemblyReference.cache
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi_MarkupCompile.cache
@@ -19,3 +18,4 @@ C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus1
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.pdb
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.genruntimeconfig.cache
 C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\ref\Harjoitus16Kilometrimaileksi.dll
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus16Kilometrimaileksi\Harjoitus16Kilometrimaileksi\obj\Debug\net6.0-windows\Harjoitus16Kilometrimaileksi.sourcelink.json

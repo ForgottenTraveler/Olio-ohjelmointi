@@ -21,7 +21,7 @@ namespace Harjoitus15Autolaskuri
     public partial class MainWindow : Window
     {
         public MainWindow()
-        {
+        { //Näyttää käynnistymisessä 0 tekstinä.
             InitializeComponent();
             TekstiRuutu.Text = "0";
             TekstiRuutuKaksi.Text = "0";
@@ -30,12 +30,13 @@ namespace Harjoitus15Autolaskuri
         public int Kasvatusrekka;
         private void VaihdaClick(object sender, RoutedEventArgs e)
         {
+            //Lisää 1 numero napautuksessa
             Kasvatus++;
             TekstiRuutu.Text = Kasvatus.ToString();
         }
 
         private void VaihdaRekka(object sender, RoutedEventArgs e)
-        {
+        { //Lisää 1 numero napautuksessa
             Kasvatusrekka++;
             TekstiRuutuKaksi.Text = Kasvatusrekka.ToString();
         }
