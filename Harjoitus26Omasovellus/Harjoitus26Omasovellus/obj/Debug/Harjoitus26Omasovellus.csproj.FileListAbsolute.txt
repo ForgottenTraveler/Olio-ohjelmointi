@@ -1,0 +1,15 @@
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\bin\Debug\Harjoitus26Omasovellus.exe.config
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\bin\Debug\Harjoitus26Omasovellus.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\bin\Debug\Harjoitus26Omasovellus.pdb
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.csproj.AssemblyReference.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\MainWindow.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\App.g.cs
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus_MarkupCompile.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus_MarkupCompile.lref
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\MainWindow.baml
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.g.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.Properties.Resources.resources
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.csproj.GenerateResource.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.csproj.CoreCompileInputs.cache
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.exe
+C:\Users\antti.nguyen\source\repos\ForgottenTraveler\Olio-ohjelmointi\Harjoitus26Omasovellus\Harjoitus26Omasovellus\obj\Debug\Harjoitus26Omasovellus.pdb
